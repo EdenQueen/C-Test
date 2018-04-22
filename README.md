@@ -1,3 +1,1 @@
-# TestTwo
-for learn to use the github and git
-Change ReadMe
+关于C#初级学习
